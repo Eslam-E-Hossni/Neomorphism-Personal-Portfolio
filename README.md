@@ -1,12 +1,12 @@
 # Neomorphism-Personal-Portfolio
 
-<h3>Awesome Neomorphism Design ❤<h3>
-<h4>Tech Using : <h4>
+<h3>Awesome Neomorphism Design ❤</h3>
+<h4>Tech Using : </h4>
 <li>Html5</li>
 <li>Css3</li>
 <li>JavaScript</li>
 
-<h3>Here is the list of its features :<h3>
+<h3>Here is the list of its features :</h3>
 <li>Neomorphism Design</li>
 <li>Fully Responsive Layout</li>
 <li>5 Color Skins</li>
@@ -21,4 +21,4 @@
 <li>Font Awesome Icons</li>
 <li>Google Fonts</li>
 
-<h3>I hope that you like the project ❤
+<h3>I hope that you like the project ❤</h3>
